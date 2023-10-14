@@ -1,0 +1,9 @@
+youtube channel - tech with tim
+email functionality - geeksforgeeks
+
+
+inorder to convert the python file to executable use this command in command prompt:
+( First download the autopytoexe from https://pypi.org/project/auto-py-to-exe )
+auto-py-to-exe
+
+or you can also use pyinstaller (which is a little bit complicated)
